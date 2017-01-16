@@ -1,0 +1,16 @@
+{
+    "name": "chat.rpattison",
+    "description": "A Qt Example ported to Ubuntu Touch",
+    "architecture": "@CLICK_ARCH@",
+    "title": "chat",
+    "hooks": {
+        "chat": {
+            "apparmor": "chat.apparmor",
+            "desktop":  "chat.rpattison.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Ryan Pattison <ryan@theinternetemail.com>",
+    "framework": "ubuntu-sdk-15.04"
+}
+

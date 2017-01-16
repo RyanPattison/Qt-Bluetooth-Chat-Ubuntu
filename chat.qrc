@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>chat.qml</file>
+    </qresource>
+</RCC>

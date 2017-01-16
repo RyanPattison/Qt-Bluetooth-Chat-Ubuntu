@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Exec=chat
+Icon=chat.png
+Terminal=false
+Type=Application
+Name=Chat
+Comment=A Qt Example ported to Ubuntu Touch
+X-Ubuntu-Touch=true
